@@ -12,11 +12,20 @@
 
     <path id="path0">
         <!-- Single line -->
-        <animate id="d0" attributeName="d" begin="0s;d5.end" dur="6000ms" fill="remove" values="m0,50 h0 ; m0,50 h670 ; m0,50 h670 ; m0,50 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
+        <animate id="d0" attributeName="d" begin="0s;d4.end" dur="6000ms" fill="remove" values="m0,50 h0 ; m0,50 h670 ; m0,50 h670 ; m0,50 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
     </path>
     <text font-family="&quot;Pacifico&quot;, monospace" fill="#36BCF7" font-size="28" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
         <textPath xlink:href="#path0">
             Data Scraping and Automation Expert
+        </textPath>
+    </text>
+    <path id="path1">
+        <!-- Single line -->
+        <animate id="d1" attributeName="d" begin="d0.end" dur="6000ms" fill="remove" values="m0,50 h0 ; m0,50 h670 ; m0,50 h670 ; m0,50 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
+    </path>
+    <text font-family="&quot;Pacifico&quot;, monospace" fill="#36BCF7" font-size="28" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
+        <textPath xlink:href="#path1">
+            Experienced Full Stack Developer
         </textPath>
     </text>
     <path id="path2">
@@ -25,7 +34,7 @@
     </path>
     <text font-family="&quot;Pacifico&quot;, monospace" fill="#36BCF7" font-size="28" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
         <textPath xlink:href="#path2">
-            Experienced Full Stack Developer
+            6+ years experience
         </textPath>
     </text>
     <path id="path3">
@@ -34,7 +43,7 @@
     </path>
     <text font-family="&quot;Pacifico&quot;, monospace" fill="#36BCF7" font-size="28" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
         <textPath xlink:href="#path3">
-            6+ years experience
+            Always learning new tech
         </textPath>
     </text>
     <path id="path4">
@@ -43,15 +52,6 @@
     </path>
     <text font-family="&quot;Pacifico&quot;, monospace" fill="#36BCF7" font-size="28" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
         <textPath xlink:href="#path4">
-            Always learning new tech
-        </textPath>
-    </text>
-    <path id="path5">
-        <!-- Single line -->
-        <animate id="d5" attributeName="d" begin="d4.end" dur="6000ms" fill="remove" values="m0,50 h0 ; m0,50 h670 ; m0,50 h670 ; m0,50 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
-    </path>
-    <text font-family="&quot;Pacifico&quot;, monospace" fill="#36BCF7" font-size="28" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
-        <textPath xlink:href="#path5">
             Try! Try! and Try!
         </textPath>
     </text>
