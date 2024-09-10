@@ -181,18 +181,18 @@
 <table align="center">
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="90%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BeautifulMoon211" alt="BeautifulMoon211" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BeautifulMoon211" alt="BeautifulMoon211" /></a>
     </td>
-    <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeautifulMoon211&theme=transparent" alt="BeautifulMoon211" /></a>
+    <td align="center" width="60%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeautifulMoon211&theme=transparent" alt="BeautifulMoon211" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--" target="_blank"><img alt="BeautifulMoon211" width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautifulMoon211&theme=transparent" /></a>
+        <a href="#-my-github-stats--" target="_blank"><img alt="BeautifulMoon211" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautifulMoon211&theme=transparent" /></a>
     </td>
     <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=BeautifulMoon211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="BeautifulMoon211" /></a>
+        <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=BeautifulMoon211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="BeautifulMoon211" /></a>
     </td>
   </tr>
 </table>
