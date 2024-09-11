@@ -12,7 +12,7 @@
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/others/Summary.svg" /></a>
 <br/><br/>
 
-<a href="#--about-me--"><img align="center" width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
 <br/><br/>
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
