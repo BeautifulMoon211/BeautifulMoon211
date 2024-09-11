@@ -7,7 +7,7 @@
 
 <div style="display: flex; align-items: center;">
   <a href="#--about-me--"><img align="left" height="140px" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
-  <a href="#--about-me--"><img align="right" width="110px" height="100px" src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-06.gif"></a>
+  <a href="#--about-me--"><img align="right" width="100px" height="100px" src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-06.gif"></a>
 </div>
 <br/><br/>
 
