@@ -6,7 +6,7 @@
 <br/><br/>
 
 <div style="display: flex; align-items: center">
-  <a href="#--about-me--"><img align="left" height="120px" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
+  <a href="#--about-me--"><img align="left" height="130px" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
   <a href="#--about-me--"><img align="right" width="110px" height="110px" src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-06.gif"></a>
 </div>
 <br/><br/>
@@ -217,18 +217,5 @@
     </td>
   </tr>
 </table>
-<a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
-<h2>
-  If you found this project useful or interesting, please consider giving it a 
-  <a href="https://github.com/BeautifulMoon211/BeautifulMoon211/#">
-    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px"> 
-    <span style="font-size: 1.5em; color: gold;">Star</span>
-  </a>.
-  If you'd like to use this template, feel free to 
-  <a href="https://github.com/BeautifulMoon211/BeautifulMoon211/fork">
-    Fork
-  </a> 
-  it and customize it to your needs!
-</h2> 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
