@@ -6,8 +6,8 @@
 <br/><br/>
 
 <div style="display: flex; align-items: center">
-  <a href="#--about-me--"><img align="left" width="500px" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
-  <a href="#--about-me--"><img align="right" width="500px" src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-06.gif"></a>
+  <a href="#--about-me--"><img align="left" height="120px" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
+  <a href="#--about-me--"><img align="right" width="110px" height="110px" src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-06.gif"></a>
 </div>
 <br/><br/>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
@@ -16,7 +16,7 @@
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
 ### Languages
-<table align="center" width="720">
+<table align="center">
   <tr>
     <td align="center" width="90">
         <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
@@ -45,6 +45,8 @@
     <td align="center" width="90">
         <a href="https://rubyonrails.org/" target="_blank"><img alt="Ruby on Rails" width="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/languages/ruby%20on%20rails.svg" /></a>
         <br>Ruby on Rails
+    </td>
+    <td align="center" width="90">
     </td>
   </tr>
 </table>
@@ -89,7 +91,7 @@
 
 ### Frameworks
 
-<table align="center" width="720">
+<table align="center">
   <tr>
     <td align="center" width="90">
         <a href="https://scrapy.org/" target="_blank"><img alt="Scrapy" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/frameworks/scrapy.svg" /></a>
@@ -119,11 +121,13 @@
         <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a>
         <br>Bootstrap
     </td>
+    <td align="center" width="90">
+    </td>
   </tr>
 </table>
 
 ### Database
-<table align="center" width="720">
+<table align="center">
   <tr>
     <td align="center" width="90">
         <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
@@ -137,11 +141,21 @@
         <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
         <br>MySQL
     </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
   </tr>
 </table>
 
 ### Tools
-<table align="center" width="720">
+<table align="center">
   <tr>
     <td align="center" width="90">
         <a href="https://apify.com/" target="_blank"><img alt="Apify" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/apify.svg" /></a>
@@ -166,6 +180,10 @@
     <td align="center" width="90">
         <a href="https://www.docker.com/" target="_blank"><img alt="Kubenetes" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
         <br>Kubenetes
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
     </td>
   </tr>
 </table>
