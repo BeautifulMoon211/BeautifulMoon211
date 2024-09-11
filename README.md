@@ -1,12 +1,18 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1> 💫 About Me  </h1>
+<div style="display: flex; align-items: center">
+  <h1> 
+    About Me
+    <a href="#--about-me--">
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
+    </a>
+  </h1>
+</div>
 
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/others/Summary.svg" /></a>
 
-<br/><br/>
-<a href="#--about-me--"><img src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
-<br/><br/>
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
+
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
 
@@ -42,6 +48,8 @@
     <td align="center" width="90">
         <a href="https://rubyonrails.org/" target="_blank"><img alt="Ruby on Rails" width="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/languages/ruby%20on%20rails.svg" /></a>
         <br>Ruby on Rails
+    </td>
+    <td align="center" width="90">
     </td>
   </tr>
 </table>
@@ -85,7 +93,6 @@
 </table>
 
 ### Frameworks
-
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -116,6 +123,8 @@
         <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a>
         <br>Bootstrap
     </td>
+    <td align="center" width="90">
+    </td>
   </tr>
 </table>
 
@@ -133,6 +142,16 @@
     <td align="center" width="90">
         <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
         <br>MySQL
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
     </td>
   </tr>
 </table>
@@ -164,8 +183,13 @@
         <a href="https://www.docker.com/" target="_blank"><img alt="Kubenetes" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
         <br>Kubenetes
     </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
   </tr>
 </table>
+
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
 
@@ -181,33 +205,20 @@
 <table align="center">
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="90%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BeautifulMoon211" alt="BeautifulMoon211" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BeautifulMoon211" alt="BeautifulMoon211" /></a>
     </td>
-    <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeautifulMoon211&theme=transparent" alt="BeautifulMoon211" /></a>
+    <td align="center" width="60%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeautifulMoon211&theme=transparent" alt="BeautifulMoon211" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--" target="_blank"><img alt="BeautifulMoon211" width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautifulMoon211&theme=transparent" /></a>
+        <a href="#-my-github-stats--" target="_blank"><img alt="BeautifulMoon211" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautifulMoon211&theme=transparent" /></a>
     </td>
     <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=BeautifulMoon211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="BeautifulMoon211" /></a>
+        <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=BeautifulMoon211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="BeautifulMoon211" /></a>
     </td>
   </tr>
 </table>
-<a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
-<h2>
-  If you found this project useful or interesting, please consider giving it a 
-  <a href="https://github.com/BeautifulMoon211/BeautifulMoon211/#">
-    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px"> 
-    <span style="font-size: 1.5em; color: gold;">Star</span>
-  </a>.
-  If you'd like to use this template, feel free to 
-  <a href="https://github.com/BeautifulMoon211/BeautifulMoon211/fork">
-    Fork
-  </a> 
-  it and customize it to your needs!
-</h2> 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
