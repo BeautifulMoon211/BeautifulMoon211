@@ -5,10 +5,7 @@
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/others/Summary.svg" /></a>
 <br/><br/>
 
-<div style="display: flex; align-items: center;">
-  <a href="#--about-me--"><img align="left" height="140px" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
-  <a href="#--about-me--"><img align="right" width="90px" height="90px" src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-06.gif"></a>
-</div>
+<a href="#--about-me--"><img align="left" width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
 <br/><br/>
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
