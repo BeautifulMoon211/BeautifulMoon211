@@ -6,6 +6,8 @@
   </a>
 </h1>
 
+<span style="color:blue">some *blue* text</span>.
+
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/others/Summary_buefy.svg" /></a>
 
 <a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=light"></a>
