@@ -148,7 +148,7 @@
     </td>
     <td align="center" width="90">
         <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
-        <br><h4>$\textsf{\color{#ff3845}{Postgres \\SQL}}$</h4>
+        <br><h4>$\textsf{\color{#ff3845}{PostgresSQL}}$</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
