@@ -21,9 +21,9 @@
 </h1>
 
 
-<h3>
+<h2>
   $\textsf{\color{#7957d5}{Languages}}$
-</h3>
+</h2>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -59,9 +59,9 @@
   </tr>
 </table>
 
-<h3>
+<h2>
   $\textsf{\color{#7957d5}{Libraries}}$
-</h3>
+</h2>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -99,9 +99,9 @@
   </tr>
 </table>
 
-<h3>
+<h2>
   $\textsf{\color{#7957d5}{Frameworks}}$
-</h3>
+</h2>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -137,9 +137,9 @@
   </tr>
 </table>
 
-<h3>
+<h2>
   $\textsf{\color{#7957d5}{Database}}$
-</h3>
+</h2>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -167,9 +167,9 @@
   </tr>
 </table>
 
-<h3>
+<h2>
   $\textsf{\color{#7957d5}{Tools}}$
-</h3>
+</h2>
 <table align="center">
   <tr>
     <td align="center" width="90">
