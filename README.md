@@ -28,11 +28,11 @@
   <tr>
     <td align="center" width="90">
         <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
-        <br><h3>$\textsf{\color{#ff3845}{Python}}$</h3>
+        <br><h4>$\textsf{\color{#ff3845}{Python}}$</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-        <br>Javascript
+        <br><h4>$\textsf{\color{#ff3845}{Javascript}}$</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
