@@ -265,7 +265,7 @@
 <h2>
   If you found this project useful or interesting, please consider giving it a 
   <a href="https://github.com/HighAmbition211/HighAmbition211/#">
-    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px">
+    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px; color: #FFD700">
     $\LARGE\textsf{\color{#FFD700}{Star.}}$
   </a>
   If you'd like to use this template, feel free to 
