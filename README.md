@@ -266,8 +266,8 @@
   If you found this project useful or interesting, please consider giving it a 
   <a href="https://github.com/HighAmbition211/HighAmbition211/#">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px">
+    $\LARGE\textsf{\color{#FFD700}{Star.}}$
   </a>
-  $\Huge\textsf{\color{#FFD700}{Star.}}$
   If you'd like to use this template, feel free to 
   <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
     Fork
