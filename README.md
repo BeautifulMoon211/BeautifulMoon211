@@ -267,7 +267,7 @@
   <a href="https://github.com/BeautifulMoon211/BeautifulMoon211">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px; color: #FFD700">
   </a>
-  $\LARGE\textsf{\color{#FFD700}{Star}}$.
+  $\large\textsf{\color{#FFD700}{Star}}$.
   If you'd like to use this template, feel free to 
   <a href="https://github.com/BeautifulMoon211/BeautifulMoon211/fork">
     Fork
