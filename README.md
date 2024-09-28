@@ -11,7 +11,7 @@
 
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/others/Summary.svg" /></a>
 
-<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=light"></a>
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
@@ -205,18 +205,46 @@
 <table align="center">
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BeautifulMoon211" alt="BeautifulMoon211" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BeautifulMoon211&show_icons=true&theme=buefy" alt="BeautifulMoon211" /></a>
     </td>
     <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeautifulMoon211&theme=transparent" alt="BeautifulMoon211" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeautifulMoon211&theme=buefy" alt="BeautifulMoon211" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--" target="_blank"><img alt="BeautifulMoon211" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautifulMoon211&theme=transparent" /></a>
+        <a href="#-my-github-stats--"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=BeautifulMoon211&theme=buefy&hide_border=true&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="BeautifulMoon211" /></a>
     </td>
-    <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=BeautifulMoon211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="BeautifulMoon211" /></a>
+    <td align="center" width="60%">
+        <a href="#-my-github-stats--" target="_blank"><img alt="BeautifulMoon211" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BeautifulMoon211&bg_color=ffffff&color=ff3845&line=7957d5&point=363636&area=true&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center">
+  <h1> 
+    Pinned Projects 
+    <a href="#-pinned-projects--">
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
+    </a>
+  </h1>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+        <a href="https://github.com/BeautifulMoon211/BeautifulMoon211"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=BeautifulMoon211&repo=BeautifulMoon211&theme=buefy" alt="BeautifulMoon211" /></a>
+    </td>
+    <td align="center" width="50%">
+        <a href="https://github.com/BeautifulMoon211/Yelp-Scraping"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=BeautifulMoon211&repo=Yelp-Scraping&theme=buefy" alt="BeautifulMoon211" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+        <a href="https://github.com/BeautifulMoon211/Redfin-Scraping"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=BeautifulMoon211&repo=Redfin-Scraping&theme=buefy" alt="BeautifulMoon211" /></a>
+    </td>
+    <td align="center" width="50%">
+        <a href="https://github.com/BeautifulMoon211/Onthemarket-Scraping"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=BeautifulMoon211&repo=Onthemarket-Scraping&theme=buefy" alt="BeautifulMoon211" /></a>
     </td>
   </tr>
 </table>
