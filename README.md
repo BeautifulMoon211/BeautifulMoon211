@@ -1,24 +1,28 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
+<h1 style="color:#7957d5"> 
+  About Me
+  <a href="#--about-me--">
+    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
+  </a>
+</h1>
 
-<div style="display: flex; align-items: center">
-  <h1> 
-    About Me
-    <a href="#--about-me--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
-    </a>
-  </h1>
-</div>
-
-<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/others/Summary.svg" /></a>
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/others/Summary_buefy.svg" /></a>
 
 <a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=BeautifulMoon211&data=followers,repositories,stars,commits&theme=light"></a>
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
 
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+<h1 style="color:#7957d5">  
+  My Skill Sets 
+  <a href="#-my-skill-sets--">
+    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px>
+  </a> 
+</h1>
 
-### Languages
+<h3 style="color:#ff3845">
+  Languages
+</h3>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -54,7 +58,9 @@
   </tr>
 </table>
 
-### Libraries
+<h3 style="color:#ff3845">
+  Libraries
+</h3> 
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -92,7 +98,9 @@
   </tr>
 </table>
 
-### Frameworks
+<h3 style="color:#ff3845">
+  Frameworks
+</h3>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -128,7 +136,9 @@
   </tr>
 </table>
 
-### Database
+<h3 style="color:#ff3845">
+  Database
+</h3>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -156,7 +166,9 @@
   </tr>
 </table>
 
-### Tools
+<h3 style="color:#ff3845">
+  Tools
+</h3>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -194,7 +206,7 @@
 <br/><br/>
 
 <div style="display: flex; align-items: center">
-  <h1> 
+  <h1 style="color:#7957d5">  
     My GitHub Stats 
     <a href="#-my-github-stats--">
       <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
@@ -222,7 +234,7 @@
 </table>
 
 <div style="display: flex; align-items: center">
-  <h1> 
+  <h1 style="color:#7957d5"> 
     Pinned Projects 
     <a href="#-pinned-projects--">
       <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
@@ -249,4 +261,4 @@
   </tr>
 </table>
 
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&section=footer" /></a>
