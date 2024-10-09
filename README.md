@@ -238,7 +238,7 @@
   <h1> 
     Pinned Projects 
     <a href="#-pinned-projects--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/animated-flame.gif" height = 35px>
     </a>
   </h1>
 </div>
